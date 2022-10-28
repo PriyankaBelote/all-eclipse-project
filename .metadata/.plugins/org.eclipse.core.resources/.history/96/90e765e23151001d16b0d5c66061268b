@@ -1,0 +1,10 @@
+package com.techno.springmvcemployeemanagement.entity;
+
+import java.io.Serializable;
+
+public class EmployeePrimaryInfo implements Serializable {
+	private String empId;
+	private String empName;
+	private String empEmail;
+	private String empPassword;
+}

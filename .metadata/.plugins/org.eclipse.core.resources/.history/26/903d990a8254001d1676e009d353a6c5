@@ -1,0 +1,5 @@
+package com.te.empmanagementsystem.dao;
+
+public interface UserRepo {
+
+}

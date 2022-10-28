@@ -1,0 +1,22 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(‘è¬8–ùŒ±½0Hà
+RMAJORZ
+CODE_SMELL
+}
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(øëÜ8Ä¯å¹½0HŞ
+RBLOCKERZBUG
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ËŞ’ıÿÿÿÿ8ë¹à°½0HÜ
+RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(•­¾Ùşÿÿÿÿ8šŠó±½0HÛ
+RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ö«Ò¸ûÿÿÿÿ8–ùŒ±½0Hß
+RMAJORZ
+CODE_SMELL
+{
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(òÖˆÌúÿÿÿÿ8ë¹à°½0Hİ
+RBLOCKERZBUG
+s	java:S125"<This block of commented-out lines of code should be removed.(áƒ´—üÿÿÿÿ8Õ¤ĞÓ½0Hâ
+RMAJORZ
+CODE_SMELL

@@ -1,0 +1,30 @@
+package com.techno.javabasics2.abstraction;
+
+import java.util.Scanner;
+
+public class Demo {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		System.out.println("Enter car name:");
+		String str = scanner.next();
+		
+		String str1 = str.toLowerCase();
+
+		switch (str1) {
+		case "audi":
+			Audi audi = new Audi();
+			audi.brake();
+			audi.acc();
+			audi.gear();
+			break;
+		case "bmw":
+			Bmw bmw = new Bmw();
+			bmw.brake();
+			bmw.acc();
+			bmw.gear();
+
+		default:
+			break;
+		}
+	}
+}

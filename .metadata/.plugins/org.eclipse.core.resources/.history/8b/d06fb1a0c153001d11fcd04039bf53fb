@@ -1,0 +1,15 @@
+package com.techno.springmvcemployeemanagement.service;
+
+import com.techno.springmvcemployeemanagement.entity.EmployeePrimaryInfo;
+
+public class EmployeeServiceImplimentation implements EmployeeService {
+
+	@Override
+	public boolean register(EmployeePrimaryInfo employeePrimaryInfo) {
+		if (employeePrimaryInfo.getEmpId().startsWith("TYC") && employeePrimaryInfo!=null) {
+			return true;
+		}
+		return false;
+	}
+
+}

@@ -1,0 +1,8 @@
+package com.techno.employeejson.dto;
+
+public class EmployeeResponse {
+	private String msg;
+	private String statusCode;
+	private String desc;
+	private Object object;
+}

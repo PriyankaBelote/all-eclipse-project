@@ -1,0 +1,24 @@
+
+[
+java:S3740"/Provide the parametrized type for this generic.(¦«ŸÄH€RMAJORZ
+CODE_SMELL
+`
+java:S3740;"/Provide the parametrized type for this generic.(¤ñ±«øÿÿÿÿHRMAJORZ
+CODE_SMELL
+M
+java:S1643"Use a StringBuilder instead.(Åß£ìøÿÿÿÿH‚RMINORZ
+CODE_SMELL
+
+java:S1450"SRemove the "temp" field and declare it as a local variable in the relevant methods.(ËÈßHƒRMINORZ
+CODE_SMELL
+b
+java:S11357"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH„RINFOZ
+CODE_SMELL
+Y
+java:S1125@"(Remove the unnecessary boolean literals.(ç€Í»ùÿÿÿÿH…RMINORZ
+CODE_SMELL
+x
+java:S2272E"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(«ŞÄ•ùÿÿÿÿHˆRMINORZBUG
+^
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜ÉüÿÿÿÿH‰RMINORZ
+CODE_SMELL

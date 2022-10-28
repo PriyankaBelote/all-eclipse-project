@@ -1,0 +1,17 @@
+package com.te.empmanagementsystem.service;
+
+import com.te.empmanagementsystem.entity.Employee;
+
+public interface EmployeeService {
+
+	public boolean register(Employee employee);
+
+	public Employee authenticate(Employee employee);
+	
+	public boolean deleteEmployee(String id);
+
+	public Employee seeDetails(Employee employee);
+
+	public Employee updateEmployee(Employee employee);
+
+}

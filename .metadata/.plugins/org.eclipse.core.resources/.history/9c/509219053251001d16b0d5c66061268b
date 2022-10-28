@@ -1,0 +1,17 @@
+package com.techno.springmvcemployeemanagement.entity;
+
+import java.io.Serializable;
+
+import javax.persistence.Entity;
+
+import lombok.Data;
+
+@Data
+@Entity
+public class EmployeePrimaryInfo implements Serializable {
+	@Id
+	private String empId;
+	private String empName;
+	private String empEmail;
+	private String empPassword;
+}

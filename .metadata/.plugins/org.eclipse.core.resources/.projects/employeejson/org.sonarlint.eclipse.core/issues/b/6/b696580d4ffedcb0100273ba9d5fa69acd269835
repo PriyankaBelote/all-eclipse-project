@@ -1,0 +1,7 @@
+
+s	java:S125A"<This block of commented-out lines of code should be removed.(Ã¶¶ˆüÿÿÿÿ8¶íş¨Á0Hø2RMAJORZ
+CODE_SMELL
+s	java:S1257"<This block of commented-out lines of code should be removed.(ª›ïùÿÿÿÿ8¶íş¨Á0HË3RMAJORZ
+CODE_SMELL
+x
+java:S4684'"@Replace this persistent entity with a simple POJO or DTO object.(©¹Ş8È«±¿Á0Hô7RCRITICALZVULNERABILITY

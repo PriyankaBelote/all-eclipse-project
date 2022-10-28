@@ -1,0 +1,9 @@
+
+f
+java:S1118":Add a private constructor to hide the implicit public one.(ÌÕú†HÈRMAJORZ
+CODE_SMELL
+g	java:S125	"<This block of commented-out lines of code should be removed.(áĞóHÉRMAJORZ
+CODE_SMELL
+Z
+java:S1481".Remove this unused "subTotal1" local variable.(ÔÕÍÑHÌRMINORZ
+CODE_SMELL

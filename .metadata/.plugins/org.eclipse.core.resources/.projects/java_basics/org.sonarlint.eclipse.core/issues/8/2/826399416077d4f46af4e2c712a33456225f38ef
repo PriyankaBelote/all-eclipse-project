@@ -1,0 +1,35 @@
+
+f
+java:S1118":Add a private constructor to hide the implicit public one.(Ìì¢ÏH±RMAJORZ
+CODE_SMELL
+i	java:S106	"9Replace this use of System.out or System.err by a logger.(Ì¿œşÿÿÿÿH²RMAJORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(È¼H³RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ö÷ú×úÿÿÿÿH´RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿHµRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(¯â·ƒH¶RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ë´×¿H·RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ÁØ÷ÃH¸RMAJORZ
+CODE_SMELL
+i	java:S106 "9Replace this use of System.out or System.err by a logger.(Á½Š­øÿÿÿÿH¹RMAJORZ
+CODE_SMELL
+i	java:S106#"9Replace this use of System.out or System.err by a logger.(¦ŠĞ úÿÿÿÿHºRMAJORZ
+CODE_SMELL
+Y
+java:S1481'"(Remove this unused "sum" local variable.(©ŒºÉûÿÿÿÿH»RMINORZ
+CODE_SMELL
+i	java:S106*"9Replace this use of System.out or System.err by a logger.(ö÷ú×úÿÿÿÿH½RMAJORZ
+CODE_SMELL
+d	java:S106-"9Replace this use of System.out or System.err by a logger.(¯â·ƒH¾RMAJORZ
+CODE_SMELL
+d	java:S1061"9Replace this use of System.out or System.err by a logger.(ëıµ†H¿RMAJORZ
+CODE_SMELL
+d	java:S1069"9Replace this use of System.out or System.err by a logger.(Æ›´HÀRMAJORZ
+CODE_SMELL
+d	java:S106:"9Replace this use of System.out or System.err by a logger.(›•€«HÁRMAJORZ
+CODE_SMELL

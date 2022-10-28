@@ -1,0 +1,66 @@
+
+[
+java:S3740"/Provide the parametrized type for this generic.(Í©»ùH¸RMAJORZ
+CODE_SMELL
+Š
+java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(Éó‘÷úÿÿÿÿH¹RMINORZ
+CODE_SMELL
+k
+java:S1118":Add a private constructor to hide the implicit public one.(˜ÇÁÿÿÿÿÿH»RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(„·ÏöH¼RMAJORZ
+CODE_SMELL
+l	java:S125$"<This block of commented-out lines of code should be removed.(¸‹°¯ÿÿÿÿÿH½RMAJORZ
+CODE_SMELL
+g	java:S125&"<This block of commented-out lines of code should be removed.(ƒÒÂ»H¾RMAJORZ
+CODE_SMELL
+„
+java:S1602."SRemove useless curly braces around statement and then remove useless return keyword(‚ôìÑûÿÿÿÿHÁRMINORZ
+CODE_SMELL
+i	java:S1061"9Replace this use of System.out or System.err by a logger.(¥Ò­ıùÿÿÿÿHÂRMAJORZ
+CODE_SMELL
+g	java:S1255"<This block of commented-out lines of code should be removed.(ïËÓëHÃRMAJORZ
+CODE_SMELL
+„
+java:S1602;"SRemove useless curly braces around statement and then remove useless return keyword(—÷µ€üÿÿÿÿHÇRMINORZ
+CODE_SMELL
+i	java:S106>"9Replace this use of System.out or System.err by a logger.(ÛÕ¯úÿÿÿÿHÈRMAJORZ
+CODE_SMELL
+l	java:S125@"<This block of commented-out lines of code should be removed.(¬‘øÿÿÿÿHÉRMAJORZ
+CODE_SMELL
+~
+java:S1602G"SRemove useless curly braces around statement and then remove useless return keyword(›ÈËHÍRMINORZ
+CODE_SMELL
+i	java:S106J"9Replace this use of System.out or System.err by a logger.(ñàä¼øÿÿÿÿHÎRMAJORZ
+CODE_SMELL
+l	java:S125K"<This block of commented-out lines of code should be removed.(â‚‚£ıÿÿÿÿHÏRMAJORZ
+CODE_SMELL
+„
+java:S1602R"SRemove useless curly braces around statement and then remove useless return keyword(–á¹åşÿÿÿÿHÓRMINORZ
+CODE_SMELL
+d	java:S106U"9Replace this use of System.out or System.err by a logger.(Í“ñ‡HÔRMAJORZ
+CODE_SMELL
+g	java:S125V"<This block of commented-out lines of code should be removed.(üéó‘HÕRMAJORZ
+CODE_SMELL
+„
+java:S1602\"SRemove useless curly braces around statement and then remove useless return keyword(æ¶Â¹üÿÿÿÿHÙRMINORZ
+CODE_SMELL
+i	java:S106_"9Replace this use of System.out or System.err by a logger.(¡ù¦ÖüÿÿÿÿHÚRMAJORZ
+CODE_SMELL
+f	java:S125`"<This block of commented-out lines of code should be removed.(ÓÌÙSHÛRMAJORZ
+CODE_SMELL
+i	java:S106p"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿHßRMAJORZ
+CODE_SMELL
+d	java:S106q"9Replace this use of System.out or System.err by a logger.(¤«ªÑHàRMAJORZ
+CODE_SMELL
+i	java:S106w"9Replace this use of System.out or System.err by a logger.(àŞ»ºşÿÿÿÿHáRMAJORZ
+CODE_SMELL
+c
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿHâRMINORZ
+CODE_SMELL
+s
+java:S1128"GRemove this unused import 'com.techno.javabasics5.collection.SortById'.(«ó‡úHäRMINORZ
+CODE_SMELL
+w
+java:S1128"FRemove this unused import 'com.techno.javabasics5.collection.Student'.(¥ ˆ’üÿÿÿÿHæRMINORZ
+CODE_SMELL

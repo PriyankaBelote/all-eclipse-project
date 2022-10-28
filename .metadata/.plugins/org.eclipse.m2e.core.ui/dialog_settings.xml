@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\91963\OneDrive\Desktop\Techno\WORKSPACE\java_basics"/>
+			<item value="C:\Users\91963\OneDrive\Desktop\Techno\WORKSPACE\springmvc1\src\main\webapp\WEB-INF\dispatcher-servlet.xml"/>
+			<item value="C:\Users\91963\OneDrive\Desktop\Techno\WORKSPACE\springcoreannotations"/>
+			<item value="C:\Users\91963\OneDrive\Desktop\Techno\WORKSPACE\springcore1"/>
+			<item value="C:\Users\91963\OneDrive\Desktop\Techno\WORKSPACE\mavenproject2hibernatedummy"/>
+			<item value="C:\Users\91963\OneDrive\Desktop\Techno\WORKSPACE\employeemanagement\src\main\resources\META-INF\persistence.xml"/>
+			<item value="C:\Users\91963\OneDrive\Desktop\Techno\WORKSPACE\dynamic_web"/>
+			<item value="C:\Users\91963\OneDrive\Desktop\Techno\WORKSPACE\mavenproject2hibernatedummy\pom.xml"/>
+			<item value="C:\Users\91963\OneDrive\Desktop\Techno\WORKSPACE\mavenproject1"/>
+			<item value="C:\Users\91963\OneDrive\Desktop\Techno\WORKSPACE\java_project1\src\java_project1\Demo.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.techno.employeejson"/>
+			<item value="com.techno.springmvcemployeemanagement"/>
+			<item value="com.techno.springmvc"/>
+			<item value="com.techno.springcoreannotations"/>
+			<item value="com.techno.springcore1"/>
+		</list>
+		<list key="groupId">
+			<item value="com.techno"/>
+		</list>
+		<list key="artifactId">
+			<item value="employeejson"/>
+			<item value="springmvcemployeemanagement"/>
+			<item value="springmvc"/>
+			<item value="springcoreannotations"/>
+			<item value="springcore1"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\91963\OneDrive\Desktop\Techno\WORKSPACE\springmvc\src\main\java\com\techno\springmvc"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

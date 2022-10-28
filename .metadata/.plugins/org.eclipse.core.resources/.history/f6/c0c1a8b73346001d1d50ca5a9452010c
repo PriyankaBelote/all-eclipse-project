@@ -1,0 +1,5 @@
+package com.techno.javabasics2.abstraction;
+
+public class CarFactory {
+
+}

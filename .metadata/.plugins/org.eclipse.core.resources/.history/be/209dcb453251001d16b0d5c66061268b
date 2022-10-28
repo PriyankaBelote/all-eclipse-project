@@ -1,0 +1,14 @@
+package com.techno.springmvcemployeemanagement.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+
+@Controller
+public class EmployeeManagementController {
+
+	@GetMapping
+	public String getRegistrationForm() {
+		return "registrationForm";
+		
+	}
+}

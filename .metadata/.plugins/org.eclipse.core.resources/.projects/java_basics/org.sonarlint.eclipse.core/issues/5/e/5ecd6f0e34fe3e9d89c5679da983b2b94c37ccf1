@@ -1,0 +1,45 @@
+
+d	java:S106!"9Replace this use of System.out or System.err by a logger.(‚ËÌºH½RMAJORZ
+CODE_SMELL
+[
+java:S3740""/Provide the parametrized type for this generic.(Ö›Ç©H¾RMAJORZ
+CODE_SMELL
+^
+java:S1199#"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿH¿RMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(¡¹—ÒøÿÿÿÿHÀRMAJORZ
+CODE_SMELL
+^
+java:S1481""2Remove this unused "listIterator1" local variable.(Ö›Ç©HÁRMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ÁªøHÃRMAJORZ
+CODE_SMELL
+`
+java:S3740"/Provide the parametrized type for this generic.(ÀÆïıÿÿÿÿHÄRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ß¥–”úÿÿÿÿHÅRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(·×ëÕHÆRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ä‹ş–øÿÿÿÿHÇRMAJORZ
+CODE_SMELL
+[
+java:S3740"/Provide the parametrized type for this generic.(ê²“HÈRMAJORZ
+CODE_SMELL
+m
+java:S1854""ARemove this useless assignment to local variable "listIterator1".(Ö›Ç©HÉRMAJORZ
+CODE_SMELL
+^
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿHÊRMINORZ
+CODE_SMELL
+d	java:S106%"9Replace this use of System.out or System.err by a logger.(Á™¹¹HËRMAJORZ
+CODE_SMELL
+d	java:S106,"9Replace this use of System.out or System.err by a logger.(°‚ÌHÌRMAJORZ
+CODE_SMELL
+…
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢ÿåİHÍRMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(‘Š®ÆûÿÿÿÿHÏRMAJORZ
+CODE_SMELL
+d	java:S106*"9Replace this use of System.out or System.err by a logger.(„™ÜíHĞRMAJORZ
+CODE_SMELL

@@ -1,0 +1,5 @@
+ackage com.te.empmanagementsystem.dao;
+
+public interface CrudRepository<T1, T2> {
+
+}

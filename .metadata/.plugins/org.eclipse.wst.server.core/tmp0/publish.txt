@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Thu Oct 27 11:01:16 IST 2022
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\91963\\.m2\\repository\\org\\springframework\\spring-web\\5.2.9.RELEASE\\spring-web-5.2.9.RELEASE.jar=C\:\\Users\\91963\\OneDrive\\Desktop\\tools\\apache-tomcat-9.0.68\\wtpwebapps\\employeejson\\WEB-INF\\lib\\spring-web-5.2.9.RELEASE.jar
+org.eclipse.jst.jee.server\:employeejson=C\:\\Users\\91963\\OneDrive\\Desktop\\tools\\apache-tomcat-9.0.68\\wtpwebapps\\employeejson

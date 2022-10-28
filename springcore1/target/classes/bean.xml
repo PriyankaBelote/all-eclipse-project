@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+
+	<bean class="com.techno.springcore1.bean.Employee" id="employee" autowire="constructor">
+		<constructor-arg index="0" value="11"></constructor-arg>
+		<constructor-arg index="1" value="kiran"></constructor-arg>
+<!-- 		<constructor-arg ref="address1"></constructor-arg> -->
+<!-- 		<property name="empId" value="10" /> -->
+<!-- 		<property name="empName" value="priya"/> -->
+<!-- 		<property name="Address" ref="address"></property> -->
+
+	</bean>
+	
+	<bean class="com.techno.springcore1.bean.Address" id="address" autowire-candidate="false">
+	<constructor-arg index="0" value="11/A"></constructor-arg>
+	<constructor-arg index="1" value="new old street"></constructor-arg>
+<!-- 		<property name="addressHno" value="12/A" /> -->
+<!-- 		<property name="addressStreetName" value="new street" /> -->
+	</bean>
+	
+	<bean class="com.techno.springcore1.bean.Address" id="address1">
+	<constructor-arg index="0" value="13/A"></constructor-arg>
+	<constructor-arg index="1" value="new1 old1 street"></constructor-arg>
+<!-- 		<property name="addressHno" value="121/A" /> -->
+<!-- 		<property name="addressStreetName" value="new1 street" /> -->
+	</bean>
+
+	
+
+</beans>

@@ -1,0 +1,37 @@
+
+o
+java:S24414">Make "Employee" serializable or don't store it in the session.(ôºÈ‘øÿÿÿÿ8Ù»îğÀ0HÁ$RMAJORZBUG
+€
+java:S1192"JDefine a constant instead of duplicating this literal "loginForm" 6 times.(û€À–8Ù»îğÀ0HÔ$RCRITICALZ
+CODE_SMELL
+~
+java:S4684N"@Replace this persistent entity with a simple POJO or DTO object.(ş‚Øøÿÿÿÿ8şœñ•Á0H‚%RCRITICALZVULNERABILITY
+}
+java:S1192("GDefine a constant instead of duplicating this literal "errMsg" 8 times.(ŠÈîÇ8Ù»îğÀ0HÛ$RCRITICALZ
+CODE_SMELL
+y
+java:S4684`"@Replace this persistent entity with a simple POJO or DTO object.(¹ÆİÅ8Ù»îğÀ0Hä$RCRITICALZVULNERABILITY
+n	java:S125c"<This block of commented-out lines of code should be removed.(éëÆÚ8ùéÇ™Á0HÂ'RMAJORZ
+CODE_SMELL
+s	java:S125x"<This block of commented-out lines of code should be removed.(çÛ³Åûÿÿÿÿ8Ìè–™Á0Hª'RMAJORZ
+CODE_SMELL
+x
+java:S4684/"@Replace this persistent entity with a simple POJO or DTO object.(Ó¹i8“¥’øÀ0HÓ$RCRITICALZVULNERABILITY
+~
+java:S4684C"@Replace this persistent entity with a simple POJO or DTO object.(ş‚Øøÿÿÿÿ8‘şİøÀ0HÃ$RCRITICALZVULNERABILITY
+~
+java:S4684l"@Replace this persistent entity with a simple POJO or DTO object.(ø¢ƒ›ùÿÿÿÿ8Ù»îğÀ0HÂ$RCRITICALZVULNERABILITY
+a
+java:S1066o"/Merge this if statement with the enclosing one.(â€Œ'8şœñ•Á0Hÿ$RMAJORZ
+CODE_SMELL
+n	java:S1255"<This block of commented-out lines of code should be removed.(ƒåí8í…£šÁ0Hî(RMAJORZ
+CODE_SMELL
+r
+java:S4684#"@Replace this persistent entity with a simple POJO or DTO object.(—†¤ùHÍ$RCRITICALZVULNERABILITY
+‡
+java:S1192"QDefine a constant instead of duplicating this literal "registrationForm" 3 times.(‚Ğ“8Ù»îğÀ0HÎ$RCRITICALZ
+CODE_SMELL
+y
+java:S4684m"@Replace this persistent entity with a simple POJO or DTO object.(´½‹8şœñ•Á0H%RCRITICALZVULNERABILITY
+z
+java:S4684…"@Replace this persistent entity with a simple POJO or DTO object.(Óû×8ñÅŞšÁ0H‰)RCRITICALZVULNERABILITY
